@@ -17,6 +17,7 @@ body {
 nav {
     display: flex;
     background-color: orange;
+    width: auto;
 }
 
 .brand {
