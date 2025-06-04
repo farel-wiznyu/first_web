@@ -1,0 +1,74 @@
+body {
+    font-family: Arial;
+    padding: 0;
+    margin: 0;
+}
+
+.badan {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.judul {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+nav {
+    display: flex;
+    background-color: orange;
+}
+
+.brand {
+    margin-left: 10px;
+}
+
+nav ul  {
+    margin: 0;
+    margin-left: 850px;
+    margin-top: 15px;
+    padding: 0;
+    display: flex;
+    background-color: wheat;
+}
+
+nav ul li {
+    padding-left: 8px;
+    list-style-type: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    margin-right: 8px;
+}
+
+nav ul li a:hover{
+    color: black;
+
+}
+
+
+.subbab {
+   color: aliceblue;
+    background-color: rgb(219, 143, 0);
+    width: 300px;
+    
+}
+
+.img5 {
+    text-align: center;
+    /* margin-left: 600px;
+    margin-bottom: 600px; */
+}
+
+/* .penjelasan {
+    justify-content: space-around;
+} */
+
+.tombol {
+    text-align: center;
+    background-color: orange;
+    padding: 10px;
+    margin-left: 590px;
+    margin-right: 590px;
+}
